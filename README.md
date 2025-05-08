@@ -76,7 +76,7 @@ curl -X POST http://localhost:5000/ask -H "Content-Type: application/json" -d '{
 
 ## 🔓 License
 
-MIT — free to use, fork, and contribute.
+MIT License — free to use, modify, distribute, fork, and contribute.
 
 ---
 
