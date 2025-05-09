@@ -32,12 +32,8 @@ $LUMIX is a meme token on Solana that stands for real utility — not fluff. We 
 
 ## 🚀 Getting Started
 
-### Requirements
 
-- Python 3.8+  
-- OpenAI API key
-
-## 🚀 Setup
+## 🛠️ Installation
 
 Follow these instructions to get LUMIX Agent up and running on your local machine.
 
@@ -87,14 +83,14 @@ curl -X POST http://localhost:5000/ask -H "Content-Type: application/json" -d '{
 }
 ```
 
-## 🧠 Stack
+## 🧰 Requirements
 
-- Python 3  
-- Flask  
-- OpenAI GPT API  
-- dotenv  
-
----
+- **Python 3.x** – The programming language used to build the agent.
+- **Flask** – Lightweight web framework for handling API requests.
+- **OpenAI GPT API** – Powers the AI responses.
+- **Solana Public API** – For blockchain interactions.
+- **Requests** – Makes HTTP requests to APIs.
+- **dotenv** – Manages environment variables securely.
 
 ## 🔓 License
 
